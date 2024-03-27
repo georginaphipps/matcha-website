@@ -72,8 +72,8 @@ nav ul li a {
   img {
     display: block;
     margin: auto;
-    width: 1000px;
-    height: 500px;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
     max-width: 100%;
   }
