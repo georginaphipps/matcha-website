@@ -1,36 +1,35 @@
 # The Magic of Matcha
 
-[View live website here](https://georginaphipps.github.io/index.html)
+[View live website here](https:/l)
 
 ## User Experience (UX)
 
 ### First Time Visitor Goals
 
-To clearly recognise what the website is about and be introduced to the charity.
+To clearly recognise what the website is about and be introduced to matcha.
 To easily navigate through the website to each page without searching.
-To locate reviews from existing clients to ensure this is thr right charity to choose or work with.
+To locate a place to buy matcha.
 
 ### Returning Visitor Goals
 
-To easily locate where and how to contact the charity.
-To find digestible information on the process of rehoming.
+To easily locate where and how to contact the website owners.
+To find a recipe to make matcha.
 
 ## Design
 
 ### Colour Scheme
 
-The 3 main colours are black, white and pink
-Black and white are key contrasting colours which makes website content easy to read, the pink adds a fun, calming touch to compliment this.
-
-An optional 4th colour would be a muted orange or green to create a full colour palette.
+The 2 main colours are green and white.
+Green is instantly recognisable as matcha and white compliments this.
 
 ### Typography
 
-The header font, Amatic SC, is a simple and effective hand-drawn font, which adds a playful touch. The paragraph font, Montserrat, is a classic and clean font which is easily readable to users. Sans-serif is the fallback font, in case of any import issues.
+The main fonts used are Arial, Helvetica, sans-serif.
+Simplicity is key on this website, and the lack of capital letters keeps it fun and not serious.
 
 ### Imagery
 
-The 3 images used clearly give the user an expectation of what the charity is about. While no filters have been applied, the pictures chosen all have a similar feel and style to each other.
+The 3 images used clearly give the user an expectation of what the website is about. While no filters have been applied, the pictures chosen all have a similar feel and style to each other.
 
 ### Wireframes
 
@@ -72,6 +71,8 @@ JavaScript
 
 [VSCode](https://code.visualstudio.com/) - Editor
 
+[SheCodes](https://www.shecodes.io/cohorts/shecodes-basics-0a38e50b-08de-4486-a315-73b54a6edf04/projects/1670213?_gl=1*1nnjqui*_gcl_au*NTkyNzM2MjI0LjE3MDQ2NTEwNDQuMTEzOTM3NzQwMS4xNzA0OTAyNjgxLjE3MDQ5MDM1NTk.) - a previous project
+
 ## Testing
 
 ### Validation - W3c Markup Validator used to validate all pages and ensure no errors in the code.
@@ -83,13 +84,13 @@ JavaScript
 
 ### First Time Visitor
 
-On the homepage, the user will find a clear logo and navigation bar at the top of the page. There is a welcome message and bold photo to clearly identify some information about the charity. Underneath, the user will find 3 positive reviews from existing clients that showcase what the charity is all about.
-The user can navigate easily around the website to the About Us page, Rehoming page and the Contact Us page without any issues. 
+On the homepage, the user will find a clear heading and navigation bar at the top of the page. There is a small information section leading to another external website to find out more, as well as an inviting image of what the website is about.
+The user can navigate easily around the website to the About Us page, Recipe and the Contact Us page without any issues. 
 
 ### Returning Visitor
 
-On the Contact Us page, it is evident to the user that the best way to contact the charity is via the form which sits in the middle. The user is also made aware of how long they can expect to wait for a reply. On every page, the footer contains a contact email address for the user to note down if needed.
-The Rehoming page offers a welcoming photo and the process of rehoming is listed below with clear headers for each point.
+On the Contact Us page, it is evident to the user that the best way to contact the website owner is via the form which sits in the middle.
+The Recpe page offers an enticing photo and step by step instructions on how to make a matcha latte, as well as the chance to gain a voucher to buy some matcha.
 
 ### Further Testing
 
@@ -97,7 +98,7 @@ The website was tested on Google Chrome, Internet Explorer, Microsoft Edge and S
 
 ### Known Bugs
 
-Mobile device responsiveness not perfect, could not figure out a solution to fix this without deleting my code and copying someone elses code, which I did not want to do.
+
 
 ## Deployment
 
