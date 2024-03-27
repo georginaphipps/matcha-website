@@ -47,3 +47,23 @@ function validateForm() {
 
   // Form validation passed, form can be submitted
   return true;
+
+  // Gallery
+  var images = document.querySelectorAll('.carousel-image');
+  var currentImageIndex = 0;
+
+  function showImage(index) {
+      images[currentImageIndex].classList.remove('active');
+      images[index].classList.add('active');
+      currentImageIndex = index;
+  }
+
+  function nextImage() {
+      var newIndex = (currentImageIndex + 1) % images.length;
+      showImage(newIndex);
+  }
+
+  function previousImage() {
+      var newIndex = (currentImageIndex - 1 + images.length) % images.length;
+      showImage(newIndex);
+  }
