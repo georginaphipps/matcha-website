@@ -19,25 +19,27 @@
       </ul>
   </nav>
 
-  <div class="form-container">
-    <form>
-        <label for="name">Full Name</label>
-        <input id="name" type="text" autocomplete="name" required>
-        <label for="email">Email Address</label>
-        <input id="email" type="text" autocomplete="email" required>
-        <label for="contact-number">Contact Number</label>
-        <input id="contact-number" type="number" required>
-        <label for="enquiry">Your Enquiry</label>
-        <textarea name="enquiry" id="enquiry" rows="10" cols="40" required></textarea>
-        <input type="submit" value="Submit"/>
-    </form>   
-</div>
-
     <img
       src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/120/871/original/Contact_Us.png?1711568780"
     />
-      
-    
+  <br>    
+  <div class="container">
+    <form action="/action_page.php">
+      <label for="fname">First Name</label>
+      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+  
+      <label for="lname">Last Name</label>
+      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+      <label for="email">Email Address</label>
+      <input type="text" id="email" name="email" placeholder="Your email..">
+  
+      <label for="enquiry">Your Enquiry</label>
+      <textarea id="enquiry" name="enquiry" placeholder="How can we help?" style="height:200px"></textarea>
+  
+      <input type="submit" value="Submit">
+    </form>
+  </div>
 
   </br>
     <hr>
