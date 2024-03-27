@@ -1,8 +1,37 @@
 body {
-    padding-left: 400px;
-    padding-right: 400px;
-    padding-bottom: 200px;
+  display: contents;
+    text-align: center;
+    width: 50%;
+    height: 50%;
   }
+
+  nav {
+    background-color: white;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #8eaa70;
+    text-decoration: none;
+}
 
   h1 {
     font-family: Arial, Helvetica, sans-serif;
@@ -25,7 +54,7 @@ body {
   h2 {
     border: 2px solid #8eaa70;
     border-radius: 5px;
-    padding: 25px;
+    padding: 20px;
   }
 
   h3 {
