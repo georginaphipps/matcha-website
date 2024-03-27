@@ -1,4 +1,4 @@
-# Toe Beans Cat Rescue Website
+# The Magic of Matcha
 
 [View live website here](https://georginaphipps.github.io/index.html)
 
