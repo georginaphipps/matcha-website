@@ -1,16 +1,16 @@
 // Buy matcha button //
 function buyMatcha() {
-    let name = prompt("What is your name?");
-    let email = prompt("What is your email address?");
+  let name = prompt("What is your name?");
+  let email = prompt("What is your email address?");
 
-    if (name && email) {
-    alert("Thank you " + name + ", please check your email for matcha voucher🍵");
-    } else {
-    alert("Please enter your name and email address to receive matcha voucher!");
-    }
+  if (name && email) {
+  alert("Thank you " + name + ", please check your email for matcha voucher🍵");
+  } else {
+  alert("Please enter your name and email address to receive matcha voucher!");
   }
-  let button = document.querySelector("button");
-  button.addEventListener("click", buyMatcha);
+}
+let button = document.querySelector("button");
+button.addEventListener("click", buyMatcha);
 
   // Form //
 function validateForm() {
@@ -21,29 +21,37 @@ function validateForm() {
 }
 
   // First Name validation
+  function validateForm() {
   if (fname === "") {
     alert("Please enter your First Name");
     return false;
   }
+}
 
   // Last Name validation
+  function validateForm() { 
   if (lname === "") {
     alert("Please enter your Last Name");
     return false;
   }
+}
 
   // Email validation
+  function validateForm() {
   var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   if (!emailRegex.test(email)) {
     alert("Please enter a valid Email Address");
     return false;
   }
+}
 
   // Enquiry validation
+  function validateForm() {
   if (enquiry === "") {
     alert("Please enter your Enquiry");
     return false;
   }
+}
 
   // Form validation passed, form can be submitted
   function validateForm() {
