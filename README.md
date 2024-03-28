@@ -1,6 +1,6 @@
 # The Magic of Matcha
 
-[View live website here](https:/l)
+[View live website here](https://georginaphipps.github.io/matcha-website/contact-us.html)
 
 ## User Experience (UX)
 
