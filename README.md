@@ -33,13 +33,15 @@ The 3 images used clearly give the user an expectation of what the website is ab
 
 ### Wireframes
 
-[Homepage](https://github.com/georginaphipps/georginaphipps.github.io/blob/main/home%20page%20plan.jpg)
+[Desktop1]([https://github.com/georginaphipps/matcha-website/blob/main/wireframe1desktop.png)
 
 
-[Contact Us Page](https://github.com/georginaphipps/georginaphipps.github.io/blob/main/contact%20us%20page%20plan.jpg)
+[Desktop2](https://github.com/georginaphipps/matcha-website/blob/main/wireframe2desktop.png)
 
 
-[Other Pages](https://github.com/georginaphipps/georginaphipps.github.io/blob/main/other%20pages%20plan.jpg)
+[Mobile1](https://github.com/georginaphipps/matcha-website/blob/main/wireframe1mobile.png)
+
+[Mobile2](https://github.com/georginaphipps/matcha-website/blob/main/wireframe2mobile.png)
 
 ## Technologies Used
 
