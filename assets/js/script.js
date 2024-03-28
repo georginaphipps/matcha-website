@@ -46,7 +46,9 @@ function validateForm() {
   }
 
   // Form validation passed, form can be submitted
+  function validateForm() {
   return true;
+  }
 
   // Gallery
   var images = document.querySelectorAll('.carousel-image');
